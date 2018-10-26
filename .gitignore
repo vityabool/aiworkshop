@@ -104,3 +104,8 @@ venv.bak/
 .mypy_cache/
 data/gear_images
 data/gear_images_preprocessed
+*.dat
+*.h5
+*.pb
+ch2testup-updated.jpeg
+.ipynb_checkpoints
