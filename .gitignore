@@ -102,3 +102,5 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+data/gear_images
+data/gear_images_preprocessed
